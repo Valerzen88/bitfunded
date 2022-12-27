@@ -65,33 +65,28 @@
                 <div class="br-8 p-5 m-5">
                     <div class="flex justify-center items-center bg-indigo-lightest-10 white w-l5 h-l5 br-round mb-5"><i
                             data-feather="inbox" class="w-l5"></i></div>
-                    <h4 class="white fw-600 fs-m3 mb-5">Storage</h4>
-                    <div class="indigo-lightest fw-600 fs-m1 lh-3 opacity-50">Lorem ipsum dolor sit amet, consectetur
-                        adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
-                    <a href="#"
-                        class="mt-5 button bg-indigo-lightest-10 fs-s3 white no-underline hover-opacity-100 hover-scale-up-1 ease-300">Read</a>
+                    <h4 class="white fw-600 fs-m3 mb-5">Swing Account</h4>
+                    <div class="indigo-lightest fw-600 fs-m1 lh-3 opacity-50">Entscheiden Sie sich für das bifunded Account, das perfekt zu Ihrem Handelsstil
+                      und Ihren Bedürfnissen passt. Das bitfunded Account Swing hat keine Beschränkungen für das Halten von Positionen über das Wochenende
+                      oder den Handel während makroökonomischer Veröffentlichungen.</div>
                 </div>
             </div>
             <div class="w-100pc md-w-40pc">
                 <div class="br-8 p-5 m-5">
                     <div class="flex justify-center items-center bg-indigo-lightest-10 white w-l5 h-l5 br-round mb-5"><i
                             data-feather="cpu" class="w-l5"></i></div>
-                    <h4 class="white fw-600 fs-m3 mb-5">Compute</h4>
-                    <div class="indigo-lightest fw-600 fs-m1 opacity-50">Lorem ipsum dolor sit amet, consectetur
-                        adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
-                    <a href="#"
-                        class="mt-5 button bg-indigo-lightest-10 fs-s3 white no-underline hover-opacity-100 hover-scale-up-1 ease-300">Read</a>
+                    <h4 class="white fw-600 fs-m3 mb-5">Kapitalerhöhungsplan</h4>
+                    <div class="indigo-lightest fw-600 fs-m1 opacity-50">Wir streben langfristige Geschäftsbeziehungen an. Wenn Sie es schaffen,
+                      konstant und profitabel zu sein, werden wir den Kontostand Ihres FTMO Kontos alle 4 Monate gemäß des Kapitalerhöhungsplan um 25% erhöhen.</div>
                 </div>
             </div>
             <div class="w-100pc md-w-40pc">
                 <div class="br-8 p-5 m-5">
                     <div class="flex justify-center items-center bg-indigo-lightest-10 white w-l5 h-l5 br-round mb-5"><i
                             data-feather="database" class="w-l5"></i></div>
-                    <h4 class="white fw-600 fs-m3 mb-5">Database</h4>
-                    <div class="indigo-lightest fw-600 fs-m1 opacity-50">Lorem ipsum dolor sit amet, consectetur
-                        adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
-                    <a href="#"
-                        class="mt-5 button bg-indigo-lightest-10 fs-s3 white no-underline hover-opacity-100 hover-scale-up-1 ease-300">Read</a>
+                    <h4 class="white fw-600 fs-m3 mb-5">Free Trial</h4>
+                    <div class="indigo-lightest fw-600 fs-m1 opacity-50">Wenn Sie sich nicht sicher sind, haben Sie die Möglichkeit das Verfahren völlig kostenlos
+                      auszuprobieren. Die Kostenlose Testversion ist eine verkürzte Version der FTMO Challenge mit den gleichen Handelsbedingungen.</div>
                 </div>
             </div>
         </div>
@@ -403,7 +398,7 @@
         <div class="br-8 bg-indigo flex flex-wrap md-items-center p-10 md-py-10 w-100pc md-w-70pc mx-auto py-10">
                <h2 class="white fs-l2 md-fs-l4 fw-900 lh-2 md-items-center mx-auto">Werden Sie Teil des Teams <br>unserer erfahrenen Händler</h2>
          </div>
-         <div class="br-8 bg-indigo flex flex-wrap md-items-center w-100pc md-w-70pc mx-auto py-10">      
+         <div class="br-8 bg-indigo flex flex-wrap md-items-center w-100pc md-w-70pc mx-auto py-10">
                 <div class="white mt-3 md-items-center mx-auto" style="display: flex">
                     <a href="#" class="button-md white fs-m1 br-4 bg-black fw-700 no-underline m-5">Start challenge</a>
                     &nbsp;&nbsp;&nbsp;
@@ -459,26 +454,26 @@
                 </div>
                 <div class="flex justify-around my-8">
                     <a href="#" class="relative p-5 bg-indigo br-round white hover-scale-up-1 ease-400"><i
-                            data-feather="twitter" class="absolute-center h-4"></i>t</a>
+                            data-feather="twitter"></i></a>
                     <a href="#" class="relative p-5 bg-indigo br-round white hover-scale-up-1 ease-400"><i
-                            data-feather="facebook" class="absolute-center h-4"></i>f</a>
+                            data-feather="facebook"></i></a>
                     <a href="#" class="relative p-5 bg-indigo br-round white hover-scale-up-1 ease-400"><i
-                            data-feather="instagram"></i>i</a>
+                            data-feather="instagram"></i></a>
                 </div>
             </div>
-         </div>   
+         </div>
         <div class="flex flex-wrap white opacity-70 fs-s2 mt-4 md-pr-10">
             <p>Alle auf dieser Website bereitgestellten Informationen dienen ausschließlich zu Studienzwecken hinsichtlich des Handels an den Finanzmärkten und stellen in keiner Weise eine spezifische Anlageempfehlung, Geschäftsempfehlung, Analyse von Anlagemöglichkeiten oder eine ähnliche allgemeine Empfehlung hinsichtlich des Handels mit Finanzinstrumenten dar. Der Handel auf den Finanzmärkten ist eine hochriskante Tätigkeit und es wird empfohlen, nicht mehr zu riskieren, als man sich leisten kann zu verlieren! bitfunded Evaluation Global s.r.o./bitfunded Evaluation US s.r.o., juristische Adresse: Bloob str, Bloob Stadt, bietet keine der im Capital Market Undertakings Act No. 256/2004 Coll. aufgeführten Investitionsdienstleistungen an. Die Informationen auf dieser Seite sind nicht an Personen gerichtet, die in einem Land oder einer Rechtsordnung ansässig sind, in denen eine solche Verbreitung oder Nutzung im Widerspruch zu den dort geltenden Gesetzen oder Vorschriften verstoßen würde. bitfunded Evaluation Global s.r.o./bitfunded Evaluation US s.r.o. und bitfunded s.r.o.,juristische Adresse: bloob street, bloob stadt, 100000, bloob land, sind kein Broker und nehmen keine Einlagen an. Die angebotene technische Lösung für die bitfunded Plattformen und der Datenfeed wird von den institutionellen Liquiditätsanbietern bereitgestellt.</p>
         </div>
         <div class="flex flex-wrap white opacity-70 mt-4 md-pr-10">
             <p>2023 © Copyright - bitfunded.com - Made with <font color="red">❤</font> for crypto trading.</p>
         </div>
-        
+
     </footer>
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
     <script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll@15.0.0/dist/smooth-scroll.polyfills.min.js"></script>
-    <script src="assets/js/script.js"></script>
+    <script src="js/script.js"></script>
 </body>
 
 </html>
