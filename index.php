@@ -77,7 +77,7 @@
                             data-feather="cpu" class="w-l5"></i></div>
                     <h4 class="white fw-600 fs-m3 mb-5">Kapitalerhöhungsplan</h4>
                     <div class="indigo-lightest fw-600 fs-m1 opacity-50">Wir streben langfristige Geschäftsbeziehungen an. Wenn Sie es schaffen,
-                      konstant und profitabel zu sein, werden wir den Kontostand Ihres FTMO Kontos alle 4 Monate gemäß des Kapitalerhöhungsplan um 25% erhöhen.</div>
+                      konstant und profitabel zu sein, werden wir den Kontostand Ihres bitfunded Kontos alle 4 Monate gemäß des Kapitalerhöhungsplan um 25% erhöhen.</div>
                 </div>
             </div>
             <div class="w-100pc md-w-40pc">
@@ -86,7 +86,7 @@
                             data-feather="database" class="w-l5"></i></div>
                     <h4 class="white fw-600 fs-m3 mb-5">Free Trial</h4>
                     <div class="indigo-lightest fw-600 fs-m1 opacity-50">Wenn Sie sich nicht sicher sind, haben Sie die Möglichkeit das Verfahren völlig kostenlos
-                      auszuprobieren. Die Kostenlose Testversion ist eine verkürzte Version der FTMO Challenge mit den gleichen Handelsbedingungen.</div>
+                      auszuprobieren. Die Kostenlose Testversion ist eine verkürzte Version der bitfunded Challenge mit den gleichen Handelsbedingungen.</div>
                 </div>
             </div>
         </div>
