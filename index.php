@@ -140,6 +140,8 @@
         </div>
     </section>
     
+    //todo: tabelle mit kontogrößen hinzufügen
+    
     <!-- slider -->
     <section class="relative bg-indigo-lightest-10">
          <div id="slider-1">
@@ -233,7 +235,7 @@
             </div>
             <div class="w-100pc md-w-25pc">
                 <div class="m-3 p-5 br-8 bg-indigo-lightest-10 overflow-hidden">
-                    <img class="w-100pc" src="img/eule.png" alt="Bitcoin Eule">
+                    <img class="w-100pc" src="img/eule-min.png" alt="Bitcoin Eule">
                 </div>
             </div>
         </div>
