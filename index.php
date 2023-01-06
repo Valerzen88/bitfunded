@@ -229,8 +229,6 @@
                     
                     Insgesamt dient das Bestehen einer Challenge und die Verifikation dazu, das Risiko für beide Seiten - den Trader und bitfunded - 
                     zu minimieren und sicherzustellen, dass nur qualifizierte und erfahrene Trader mit Fremdkapital handeln.</h4>
-                    <div class="flex indigo-lightest opacity-50">
-                        
                     </div>
                 </div>
             </div>
