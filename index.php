@@ -142,32 +142,31 @@
     
     <!-- slider -->
     <section class="relative bg-indigo-lightest-10">
-        <h3 class="white fs-l3 fw-900">Warum Fremdkapital?</h3>
          <div id="slider-1">
             <div class="p-10 md-p-l10 flex justify-center items-center flex-column text-center">
-                <h3 class="white fs-l3 fw-900">Erhöhte Kaufkraft</h3>
-                <p class="indigo-lightest fw-600 fs-m1 opacity-30 my-5">Mit Fremdkapital können Sie größere Investitionen tätigen, 
+                <h4 class="white fs-l3 fw-900">Erhöhte Kaufkraft</h4>
+                <p class="indigo-lightest fw-800 fs-m1 opacity-30 my-5">Mit Fremdkapital können Sie größere Investitionen tätigen, 
                 als es Ihr eigenes Kapital erlauben würde. Das erhöht Ihre Kaufkraft und gibt Ihnen die Möglichkeit, 
                 in lukrativere Märkte oder Anlageformen zu investieren.</p>
             </div>
             <div class="p-10 md-p-l10 flex justify-center items-center flex-column text-center">
-                <h2 class="white fs-l3 fw-900">Flexibilität</h2>
-                <p class="indigo-lightest fw-600 fs-m1 opacity-30 my-5">Fremdkapital ist eine schnelle und flexible Finanzierungsmöglichkeit, 
+                <h4 class="white fs-l3 fw-900">Flexibilität</h4>
+                <p class="indigo-lightest fw-800 fs-m1 opacity-30 my-5">Fremdkapital ist eine schnelle und flexible Finanzierungsmöglichkeit, 
                 die Ihnen ermöglicht, schnell auf Marktveränderungen oder -möglichkeiten zu reagieren.</p>
             </div>
             <div class="p-10 md-p-l10 flex justify-center items-center flex-column text-center">
-                <h2 class="white fs-l3 fw-900">Hebelwirkung</h2>
-                <p class="indigo-lightest fw-600 fs-m1 opacity-30 my-5">Da Sie mit Fremdkapital investieren, haben Sie die Möglichkeit, 
+                <h4 class="white fs-l3 fw-900">Hebelwirkung</h4>
+                <p class="indigo-lightest fw-800 fs-m1 opacity-30 my-5">Da Sie mit Fremdkapital investieren, haben Sie die Möglichkeit, 
                 die Hebelwirkung zu nutzen, um Ihre Gewinne zu maximieren.</p>
             </div>
             <div class="p-10 md-p-l10 flex justify-center items-center flex-column text-center">
-                <h2 class="white fs-l3 fw-900">Diversifikation</h2>
-                <p class="indigo-lightest fw-600 fs-m1 opacity-30 my-5">Mit Fremdkapital können Sie Ihr Portfolio diversifizieren, 
+                <h4 class="white fs-l3 fw-900">Diversifikation</h4>
+                <p class="indigo-lightest fw-800 fs-m1 opacity-30 my-5">Mit Fremdkapital können Sie Ihr Portfolio diversifizieren, 
                 indem Sie in verschiedene Anlageformen oder Märkte investieren.</p>
             </div>
             <div class="p-10 md-p-l10 flex justify-center items-center flex-column text-center">
-                <h2 class="white fs-l3 fw-900">Erhöhte Liquidität</h2>
-                <p class="indigo-lightest fw-600 fs-m1 opacity-30 my-5">Indem Sie Fremdkapital nutzen, können Sie Ihr eigenes Kapital 
+                <h4 class="white fs-l3 fw-900">Erhöhte Liquidität</h4>
+                <p class="indigo-lightest fw-800 fs-m1 opacity-30 my-5">Indem Sie Fremdkapital nutzen, können Sie Ihr eigenes Kapital 
                 für andere Investitionsmöglichkeiten freihalten. Das erhöht die Liquidität Ihres Portfolios und gibt Ihnen mehr finanzielle Flexibilität.</p>
             </div>
         </div>
@@ -234,61 +233,7 @@
             </div>
             <div class="w-100pc md-w-25pc">
                 <div class="m-3 p-5 br-8 bg-indigo-lightest-10 overflow-hidden">
-                    <div class="p-3">
-                        <h3 class="indigo">Free</h3>
-                        <div class="white flex items-center">$<span class="fs-l5 lh-1">0</span>/mo</div>
-                    </div>
-                    <div class="p-3 indigo-lightest fw-400 fs-s1 lh-5">
-                        <div>
-                            <i class="h-3 indigo" stroke-width="4" data-feather="check"></i>
-                            <span class="opacity-50">1 user</span>
-                        </div>
-                        <div>
-                            <i class="h-3 indigo" stroke-width="4" data-feather="check"></i>
-                            <span class="opacity-50">100 visitors/month</span></div>
-                        <div>
-                            <i class="h-3 indigo" stroke-width="4" data-feather="check"></i>
-                            <span class="opacity-50">1 website</span></div>
-                        <div>
-                            <i class="h-3 indigo" stroke-width="4" data-feather="check"></i>
-                            <span class="opacity-50">24x7 support</span></div>
-                        <div>
-                            <i class="h-3" stroke-width="4" data-feather="x"></i>
-                            <span class="opacity-50">third party integration</span></div>
-                    </div>
-                    <div class="p-3">
-                        <button class="button full bg-black white  hover-opacity-100 hover-scale-up-1 ease-300">SIGN
-                            UP</button>
-                    </div>
-                </div>
-            </div>
-            <div class="w-100pc md-w-25pc">
-                <div class="m-3 p-5 br-8 bg-white overflow-hidden">
-                    <div class="p-3">
-                        <h3 class="indigo">Pro</h3>
-                        <div class="black flex items-center">$<span class="fs-l5 lh-1">99</span>/mo</div>
-                    </div>
-                    <div class="p-3 black fw-400 fs-s1 lh-5">
-                        <div>
-                            <i class="h-3 indigo" stroke-width="4" data-feather="check"></i>
-                            <span class="opacity-50"> 5 user</span></div>
-                        <div>
-                            <i class="h-3 indigo" stroke-width="4" data-feather="check"></i>
-                            <span class="opacity-50">10,000 visitors/month</span></div>
-                        <div>
-                            <i class="h-3 indigo" stroke-width="4" data-feather="check"></i>
-                            <span class="opacity-50">3 website</span></div>
-                        <div>
-                            <i class="h-3 indigo" stroke-width="4" data-feather="check"></i>
-                            <span class="opacity-50">24x7 support</span></div>
-                        <div>
-                            <i class="h-3 indigo" stroke-width="4" data-feather="check"></i>
-                            <span class="opacity-50">third party integration</span></div>
-                    </div>
-                    <div class="p-3">
-                        <button class="button full bg-indigo white hover-opacity-100 hover-scale-up-1 ease-300">SIGN
-                            UP</button>
-                    </div>
+                    <img class="w-100pc" src="img/eule.png" alt="Bitcoin Eule">
                 </div>
             </div>
         </div>
@@ -300,14 +245,14 @@
             <div class="px-3">
                 <div class="p-8 br-8 bg-indigo-lightest-10 relative">
                     <span class="fs-l5 lh-1 white opacity-10 absolute top-0 z--1">&#10077;</span>
-                    <p class="fw-600 fs-m1 indigo-lightest opacity-80 italic ls-wider">Lorem ipsum dolor sit amet,
-                        consectetur adipiscing elit, sed do eiusmod tempor </p>
+                    <p class="fw-600 fs-m1 indigo-lightest opacity-80 italic ls-wider">Unglaubliche Company! Auszahlung wurde 
+                    innerhalb von paar Stunden verarbeitet! </p>
                     <div class="flex items-center my-5">
                         <div class="block br-round border bc-black bw-4 w-l3 h-l3"><img class="br-round"
                                 src="https://randomuser.me/api/portraits/men/46.jpg" alt=""></div>
                         <div class="ml-4 fs-s1">
                             <div class="indigo-lightest">Mahnaz Farzin</div>
-                            <div class="indigo-lightest opacity-20">Product Manager, XYZ</div>
+                            <div class="indigo-lightest opacity-20">40K/USDT Konto</div>
                         </div>
                     </div>
                 </div>
@@ -319,10 +264,10 @@
                         consectetur adipiscing elit, sed do eiusmod tempor </p>
                     <div class="flex items-center my-5">
                         <div class="block br-round border bc-black bw-4 w-l3 h-l3"><img class="br-round"
-                                src="https://randomuser.me/api/portraits/men/46.jpg" alt=""></div>
+                                src="https://randomuser.me/api/portraits/men/75.jpg" alt=""></div>
                         <div class="ml-4 fs-s1">
                             <div class="indigo-lightest">Mahnaz Farzin</div>
-                            <div class="indigo-lightest opacity-20">Product Manager, XYZ</div>
+                            <div class="indigo-lightest opacity-20">80K/USDT Konto</div>
                         </div>
                     </div>
                 </div>
@@ -334,10 +279,10 @@
                         consectetur adipiscing elit, sed do eiusmod tempor </p>
                     <div class="flex items-center my-5">
                         <div class="block br-round border bc-black bw-4 w-l3 h-l3"><img class="br-round"
-                                src="https://randomuser.me/api/portraits/men/46.jpg" alt=""></div>
+                                src="https://randomuser.me/api/portraits/women/65.jpg" alt=""></div>
                         <div class="ml-4 fs-s1">
                             <div class="indigo-lightest">Mahnaz Farzin</div>
-                            <div class="indigo-lightest opacity-20">Product Manager, XYZ</div>
+                            <div class="indigo-lightest opacity-20">200K/USDT Konto</div>
                         </div>
                     </div>
                 </div>
@@ -349,10 +294,10 @@
                         consectetur adipiscing elit, sed do eiusmod tempor </p>
                     <div class="flex items-center my-5">
                         <div class="block br-round border bc-black bw-4 w-l3 h-l3"><img class="br-round"
-                                src="https://randomuser.me/api/portraits/men/46.jpg" alt=""></div>
+                                src="https://randomuser.me/api/portraits/men/62.jpg" alt=""></div>
                         <div class="ml-4 fs-s1">
                             <div class="indigo-lightest">Mahnaz Farzin</div>
-                            <div class="indigo-lightest opacity-20">Product Manager, XYZ</div>
+                            <div class="indigo-lightest opacity-20">10K/USDT Konto</div>
                         </div>
                     </div>
                 </div>
@@ -420,7 +365,8 @@
                 <div class="white mt-3 md-items-center mx-auto" style="display: flex">
                     <a href="#" class="button-md white fs-m1 br-4 bg-black fw-700 no-underline m-5">Start challenge</a>
                     &nbsp;&nbsp;&nbsp;
-                    <a href="#" class="button-md lightest-20 indigo-lightest focus-white fs-m1 br-4 black fw-700 no-underline m-5">&nbsp;&nbsp;&nbsp;Free Trial&nbsp;&nbsp;&nbsp;</a>
+                    <a href="#" class="button-md lightest-20 indigo-lightest focus-white fs-m1 br-4 black fw-700 no-underline m-5">
+                    &nbsp;&nbsp;&nbsp;Free Trial&nbsp;&nbsp;&nbsp;</a>
                  </div>
         </div>
         </div>
