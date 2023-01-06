@@ -226,19 +226,22 @@
                 <div class="p-5">
                     <h4 class="white fw-800 fs-l3 mb-5">Warum Challenge?</h4>
                     <div class="indigo-lightest fw-600 fs-m1 opacity-50">
-                    <p>Die Verifikation und das Bestehen der Challenge sind wichtig, um sicherzustellen, dass Trader, 
-                    die Fremdkapital nutzen, über die erforderlichen Kenntnisse und Fähigkeiten verfügen, 
-                    um das Risiko von Verlusten angemessen zu verstehen und zu managen.</p>
-
-                    <p>
-                    Das hilft dabei, das Risiko von Verlusten für die Trader selbst und für die Firma, 
-                    die das Fremdkapital bereitstellt, zu minimieren.</p>
+                    <ul>
                     
-                    <p>
+                    <li>Die Verifikation und das Bestehen der Challenge sind wichtig, um sicherzustellen, dass Trader, 
+                    die Fremdkapital nutzen, über die erforderlichen Kenntnisse und Fähigkeiten verfügen, 
+                    um das Risiko von Verlusten angemessen zu verstehen und zu managen.</li>
+
+                    <li>
+                    Das hilft dabei, das Risiko von Verlusten für die Trader selbst und für die Firma, 
+                    die das Fremdkapital bereitstellt, zu minimieren.</li>
+                    
+                    <li>
                     Insgesamt dient das Bestehen einer Challenge und die Verifikation dazu, das Risiko für beide Seiten - den Trader und bitfunded - 
                     zu minimieren und sicherzustellen, dass nur qualifizierte und erfahrene Trader mit Fremdkapital handeln.
-                    </p>
+                    </li>
                     
+                    </ul>
                     </div>
                 </div>
             </div>
