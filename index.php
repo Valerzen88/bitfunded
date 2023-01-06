@@ -183,7 +183,7 @@
     </section>
 
     <!-- big text -->
-    <section class="p-10 md-py-10">
+    <section class="p-10 md-py-10" style="display:none;">
         <div class="w-100pc md-w-70pc mx-auto py-10">
             <h2 class="white fs-l2 md-fs-xl1 fw-900 lh-2">
                 Lorem ipsum dolor sit amet, <span class="border-b bc-indigo bw-4"> consectetur</span> adipiscing elit,
@@ -221,8 +221,8 @@
 
     <!-- pricing -->
     <section id="pricing">
-        <div class="p-10 flex flex-wrap">
-            <div class="w-100pc md-w-50pc">
+        <div class="p-10 flex flex-wrap bg-indigo-lightest-10 overflow-hidden">
+            <div class="w-100pc md-w-75pc">
                 <div class="p-5">
                     <h4 class="white fw-800 fs-l3 mb-5">Warum Challenge?</h4>
                     <div class="indigo-lightest fw-600 fs-m1 opacity-50">
@@ -242,7 +242,7 @@
                     </div>
                 </div>
             </div>
-            <div class="w-100pc md-w-50pc">
+            <div class="w-100pc md-w-25pc">
                 <div class="m-3 overflow-hidden">
                     <img class="w-100pc" src="img/eule-min.png" alt="Bitcoin Eule">
                 </div>
