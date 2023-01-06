@@ -222,8 +222,8 @@
     <!-- pricing -->
     <section id="pricing">
         <div class="p-10 flex flex-wrap bg-indigo-lightest-10 overflow-hidden">
-            <div class="w-100pc md-w-75pc">
-                <div class="p-5">
+            <div class="w-100pc md-w-75pc p-10">
+                <div class="p-10">
                     <h4 class="white fw-800 fs-l3 mb-5">Warum Challenge?</h4>
                     <div class="indigo-lightest fw-600 fs-m1 opacity-50">
                         <ul>
@@ -246,7 +246,7 @@
                 </div>
             </div>
             <div class="w-100pc md-w-25pc">
-                <div class="m-3 overflow-hidden">
+                <div class="m-3 overflow-hidden p-5">
                     <img class="w-100pc" src="img/eule-min.png" alt="Bitcoin Eule">
                 </div>
             </div>
@@ -385,18 +385,18 @@
 
     <!-- subscribe -->
     <section  id="beapartofus" class="">
-    <div class="bg-indigo py-10">
-        <div class="br-8 bg-indigo flex flex-wrap md-items-center p-10 md-py-10 w-100pc md-w-70pc mx-auto py-10">
-               <h2 class="white fs-l2 md-fs-l4 fw-900 lh-2 md-items-center mx-auto">Werden Sie Teil des Teams <br>unserer erfahrenen Händler</h2>
-         </div>
-         <div class="br-8 bg-indigo flex flex-wrap md-items-center w-100pc md-w-70pc mx-auto py-10">
-                <div class="white mt-3 md-items-center mx-auto" style="display: flex">
-                    <a href="#" class="button-md white fs-m1 br-4 bg-black fw-700 no-underline m-5">Start challenge</a>
-                    &nbsp;&nbsp;&nbsp;
-                    <a href="#" class="button-md lightest-20 indigo-lightest focus-white fs-m1 br-4 black fw-700 no-underline m-5">
-                    &nbsp;&nbsp;&nbsp;Free Trial&nbsp;&nbsp;&nbsp;</a>
-                 </div>
-        </div>
+        <div class="bg-indigo py-10">
+            <div class="br-8 bg-indigo flex flex-wrap md-items-center p-10 md-py-10 w-100pc md-w-70pc mx-auto py-10">
+                <h2 class="white fs-l2 md-fs-l4 fw-900 lh-2 md-items-center mx-auto">Werden Sie Teil des Teams <br>unserer erfahrenen Händler</h2>
+            </div>
+            <div class="br-8 bg-indigo flex flex-wrap md-items-center w-100pc md-w-70pc mx-auto py-10">
+                    <div class="white mt-3 md-items-center mx-auto" style="display: flex">
+                        <a href="#" class="button-md white fs-m1 br-4 bg-black fw-700 no-underline m-5">Start challenge</a>
+                        &nbsp;&nbsp;&nbsp;
+                        <a href="#" class="button-md lightest-20 indigo-lightest focus-white fs-m1 br-4 black fw-700 no-underline m-5">
+                        &nbsp;&nbsp;&nbsp;Free Trial&nbsp;&nbsp;&nbsp;</a>
+                    </div>
+            </div>
         </div>
     </section>
 
