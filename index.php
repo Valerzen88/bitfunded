@@ -142,24 +142,33 @@
     
     <!-- slider -->
     <section class="relative bg-indigo-lightest-10">
-        <div id="slider-1">
+        <h3 class="white fs-l3 fw-900">Warum Fremdkapital?</h3>
+         <div id="slider-1">
             <div class="p-10 md-p-l10 flex justify-center items-center flex-column text-center">
-                <h2 class="white fs-l3 fw-900">Lorem ipsum dolor sit amet, consectetur</h2>
-                <p class="indigo-lightest fw-600 fs-m1 opacity-30 my-5">Lorem ipsum dolor sit amet, consectetur
-                    adipiscing elit, sed do eiusmod tempor </p>
-                <a href="#" class="button-md bg-indigo white fs-s3 br-4 black fw-600 no-underline m-5">BUY NOW</a>
+                <h3 class="white fs-l3 fw-900">Erhöhte Kaufkraft</h3>
+                <p class="indigo-lightest fw-600 fs-m1 opacity-30 my-5">Mit Fremdkapital können Sie größere Investitionen tätigen, 
+                als es Ihr eigenes Kapital erlauben würde. Das erhöht Ihre Kaufkraft und gibt Ihnen die Möglichkeit, 
+                in lukrativere Märkte oder Anlageformen zu investieren.</p>
             </div>
             <div class="p-10 md-p-l10 flex justify-center items-center flex-column text-center">
-                <h2 class="white fs-l3 fw-900">Lorem ipsum dolor sit amet, consectetur</h2>
-                <p class="indigo-lightest fw-600 fs-m1 opacity-30 my-5">Lorem ipsum dolor sit amet, consectetur
-                    adipiscing elit, sed do eiusmod tempor </p>
-                <a href="#" class="button-md bg-indigo white fs-s3 br-4 black fw-600 no-underline m-5">BUY NOW</a>
+                <h2 class="white fs-l3 fw-900">Flexibilität</h2>
+                <p class="indigo-lightest fw-600 fs-m1 opacity-30 my-5">Fremdkapital ist eine schnelle und flexible Finanzierungsmöglichkeit, 
+                die Ihnen ermöglicht, schnell auf Marktveränderungen oder -möglichkeiten zu reagieren.</p>
             </div>
             <div class="p-10 md-p-l10 flex justify-center items-center flex-column text-center">
-                <h2 class="white fs-l3 fw-900">Lorem ipsum dolor sit amet, consectetur</h2>
-                <p class="indigo-lightest fw-600 fs-m1 opacity-30 my-5">Lorem ipsum dolor sit amet, consectetur
-                    adipiscing elit, sed do eiusmod tempor </p>
-                <a href="#" class="button-md bg-indigo white fs-s3 br-4 black fw-600 no-underline m-5">BUY NOW</a>
+                <h2 class="white fs-l3 fw-900">Hebelwirkung</h2>
+                <p class="indigo-lightest fw-600 fs-m1 opacity-30 my-5">Da Sie mit Fremdkapital investieren, haben Sie die Möglichkeit, 
+                die Hebelwirkung zu nutzen, um Ihre Gewinne zu maximieren.</p>
+            </div>
+            <div class="p-10 md-p-l10 flex justify-center items-center flex-column text-center">
+                <h2 class="white fs-l3 fw-900">Diversifikation</h2>
+                <p class="indigo-lightest fw-600 fs-m1 opacity-30 my-5">Mit Fremdkapital können Sie Ihr Portfolio diversifizieren, 
+                indem Sie in verschiedene Anlageformen oder Märkte investieren.</p>
+            </div>
+            <div class="p-10 md-p-l10 flex justify-center items-center flex-column text-center">
+                <h2 class="white fs-l3 fw-900">Erhöhte Liquidität</h2>
+                <p class="indigo-lightest fw-600 fs-m1 opacity-30 my-5">Indem Sie Fremdkapital nutzen, können Sie Ihr eigenes Kapital 
+                für andere Investitionsmöglichkeiten freihalten. Das erhöht die Liquidität Ihres Portfolios und gibt Ihnen mehr finanzielle Flexibilität.</p>
             </div>
         </div>
         <ul class="absolute list-none w-100pc flex justify-between top-50pc">
