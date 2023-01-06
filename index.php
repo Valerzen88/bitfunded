@@ -335,66 +335,49 @@
 
     </section>
 
-    <!-- blog -->
+    <!-- allbenefits -->
     <section class="p-0 md-p-5 bg-indigo-lightest-10">
         <div class="flex flex-wrap">
             <div class="w-100pc md-w-33pc p-10">
-                <a href="#" class="block no-underline p-5 br-8 hover-bg-indigo-lightest-10 hover-scale-up-1 ease-300">
-                    <img class="w-100pc" src="assets/images/yoann-siloine-dyaxQ-aoGWY-unsplash.jpg" alt="">
-                    <p class="fw-600 white fs-m3 mt-3">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed…
-                    </p>
-                    <div class="indigo fs-s3 italic after-arrow-right my-4">3 days ago by Jeff</div>
-                </a>
+                <h4 class="white fs-l3 fw-700 lh-1">Die besten Handelskonditionen</h4>
+                <p class="fw-600 white fs-m3 mt-3">
+                    Die FTMO Lösung mit einer großen Auswahl an verschiedensten Assets, mit sehr günstigen Kommissionen und sehr kleinen Spreads.
+                </p>
             </div>
             <div class="w-100pc md-w-33pc p-10">
-                <a href="#" class="block no-underline p-5 br-8 hover-bg-indigo-lightest-10 hover-scale-up-1 ease-300">
-                    <img class="w-100pc" src="assets/images/fabrice-villard-Jrl_UQcZqOc-unsplash.jpg" alt="">
-                    <p class="fw-600 white fs-m3 mt-3">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed…
-                    </p>
-                    <div class="indigo fs-s3 italic after-arrow-right my-4">3 days ago by Jeff</div>
-                </a>
+                <h4 class="white fs-l3 fw-700 lh-1">Hebelwirkung bis zu 1:100</h4>
+                <p class="fw-600 white fs-m3 mt-3">
+                    Nutzen Sie die Hebelwirkung eines professionellen Händlers zu Ihrem Vorteil, ohne vorgeschriebene Limits für die Positionsgröße.
+                </p>
             </div>
             <div class="w-100pc md-w-33pc p-10">
-                <a href="#" class="block no-underline p-5 br-8 hover-bg-indigo-lightest-10 hover-scale-up-1 ease-300">
-                    <img class="w-100pc" src="assets/images/florian-klauer-mk7D-4UCfmg-unsplash.jpg" alt="">
-                    <p class="fw-600 white fs-m3 mt-3">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed…
-                    </p>
-                    <div class="indigo fs-s3 italic after-arrow-right my-4">3 days ago by Jeff</div>
-                </a>
+                <h4 class="white fs-l3 fw-700 lh-1">Nur einmalige Gebühr</h4>
+                <p class="fw-600 white fs-m3 mt-3">
+                    Keine wiederkehrenden Gebühren, keine Mitgliedschaft oder andere versteckte Gebühren. 
+                    Außerdem wird Ihnen die Gebühr automatisch mit dem ersten Profit Split erstattet.
+                </p>
             </div>
 
         </div>
         
         <div class="flex flex-wrap">
             <div class="w-100pc md-w-33pc p-10">
-                <a href="#" class="block no-underline p-5 br-8 hover-bg-indigo-lightest-10 hover-scale-up-1 ease-300">
-                    <img class="w-100pc" src="assets/images/yoann-siloine-dyaxQ-aoGWY-unsplash.jpg" alt="">
-                    <p class="fw-600 white fs-m3 mt-3">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed…
-                    </p>
-                    <div class="indigo fs-s3 italic after-arrow-right my-4">3 days ago by Jeff</div>
-                </a>
+                <h4 class="white fs-l3 fw-700 lh-1">Eigenes Plattform</h4>
+                <p class="fw-600 white fs-m3 mt-3">
+                    Wir haben unsere eigene Plattform fürs Trading in Cryptobereich zusammengebaut.
+                </p>
             </div>
             <div class="w-100pc md-w-33pc p-10">
-                <a href="#" class="block no-underline p-5 br-8 hover-bg-indigo-lightest-10 hover-scale-up-1 ease-300">
-                    <img class="w-100pc" src="assets/images/fabrice-villard-Jrl_UQcZqOc-unsplash.jpg" alt="">
-                    <p class="fw-600 white fs-m3 mt-3">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed…
-                    </p>
-                    <div class="indigo fs-s3 italic after-arrow-right my-4">3 days ago by Jeff</div>
-                </a>
+                <h4 class="white fs-l3 fw-700 lh-1">Keine Einschränkungen beim Handelsstil!</h4>
+                <p class="fw-600 white fs-m3 mt-3">
+                    Handeln Sie Ihre eigene Handelsstrategie ohne Einschränkungen oder Begrenzungen.
+                </p>
             </div>
             <div class="w-100pc md-w-33pc p-10">
-                <a href="#" class="block no-underline p-5 br-8 hover-bg-indigo-lightest-10 hover-scale-up-1 ease-300">
-                    <img class="w-100pc" src="assets/images/florian-klauer-mk7D-4UCfmg-unsplash.jpg" alt="">
-                    <p class="fw-600 white fs-m3 mt-3">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed…
-                    </p>
-                    <div class="indigo fs-s3 italic after-arrow-right my-4">3 days ago by Jeff</div>
-                </a>
+                <h4 class="white fs-l3 fw-700 lh-1">Handeln Sie mit sämtlichen Instrumenten</h4>
+                <p class="fw-600 white fs-m3 mt-3">
+                    Handeln Sie mit den meisten Kryptowährungsinstrumenten.
+                </p>
             </div>
 
         </div>
