@@ -339,20 +339,20 @@
     <section class="p-0 md-p-5 bg-indigo-lightest-10">
         <div class="flex flex-wrap">
             <div class="w-100pc md-w-33pc p-10">
-                <h4 class="white fs-l3 fw-700 lh-1">Die besten Handelskonditionen</h4>
-                <p class="fw-600 white fs-m3 mt-3">
+                <h4 class="white fs-m4 fw-700 lh-1">Die besten Handelskonditionen</h4>
+                <p class="fw-600 white fs-m1 mt-3">
                     Die FTMO Lösung mit einer großen Auswahl an verschiedensten Assets, mit sehr günstigen Kommissionen und sehr kleinen Spreads.
                 </p>
             </div>
             <div class="w-100pc md-w-33pc p-10">
-                <h4 class="white fs-l3 fw-700 lh-1">Hebelwirkung bis zu 1:100</h4>
-                <p class="fw-600 white fs-m3 mt-3">
+                <h4 class="white fs-m4 fw-700 lh-1">Hebelwirkung bis zu 1:100</h4>
+                <p class="fw-600 white fs-m1 mt-3">
                     Nutzen Sie die Hebelwirkung eines professionellen Händlers zu Ihrem Vorteil, ohne vorgeschriebene Limits für die Positionsgröße.
                 </p>
             </div>
             <div class="w-100pc md-w-33pc p-10">
-                <h4 class="white fs-l3 fw-700 lh-1">Nur einmalige Gebühr</h4>
-                <p class="fw-600 white fs-m3 mt-3">
+                <h4 class="white fs-m4 fw-700 lh-1">Nur einmalige Gebühr</h4>
+                <p class="fw-600 white fs-m1 mt-3">
                     Keine wiederkehrenden Gebühren, keine Mitgliedschaft oder andere versteckte Gebühren. 
                     Außerdem wird Ihnen die Gebühr automatisch mit dem ersten Profit Split erstattet.
                 </p>
