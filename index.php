@@ -362,20 +362,20 @@
         
         <div class="flex flex-wrap">
             <div class="w-100pc md-w-33pc p-10">
-                <h4 class="white fs-l3 fw-700 lh-1">Eigenes Plattform</h4>
-                <p class="fw-600 white fs-m3 mt-3">
+                <h4 class="white fs-m4 fw-700 lh-1">Eigenes Plattform</h4>
+                <p class="fw-600 white fs-m1 mt-3">
                     Wir haben unsere eigene Plattform fürs Trading in Cryptobereich zusammengebaut.
                 </p>
             </div>
             <div class="w-100pc md-w-33pc p-10">
-                <h4 class="white fs-l3 fw-700 lh-1">Keine Einschränkungen beim Handelsstil!</h4>
-                <p class="fw-600 white fs-m3 mt-3">
+                <h4 class="white fs-m4 fw-700 lh-1">Keine Einschränkungen beim Handelsstil!</h4>
+                <p class="fw-600 white fs-m1 mt-3">
                     Handeln Sie Ihre eigene Handelsstrategie ohne Einschränkungen oder Begrenzungen.
                 </p>
             </div>
             <div class="w-100pc md-w-33pc p-10">
-                <h4 class="white fs-l3 fw-700 lh-1">Handeln Sie mit sämtlichen Instrumenten</h4>
-                <p class="fw-600 white fs-m3 mt-3">
+                <h4 class="white fs-m4 fw-700 lh-1">Handeln Sie mit sämtlichen Instrumenten</h4>
+                <p class="fw-600 white fs-m1 mt-3">
                     Handeln Sie mit den meisten Kryptowährungsinstrumenten.
                 </p>
             </div>
