@@ -35,10 +35,6 @@
     <!-- hero section -->
     <section id="home" class="min-h-100vh flex justify-start items-center">
         <div class="mx-5 md-mx-l5">
-            <!--div class="inline-block br-round bg-indigo-30 indigo-lightest p-2 fs-s2 mb-5">
-                <div class="inline-block bg-indigo indigo-lightest br-round px-3 py-1 mr-3 fs-s3">Join Meet Up</div>
-                We are coming to Singapore. Learn more…
-            </div-->
             <div>
                 <h1 class="white fs-l3 lh-2 md-fs-l4 md-lh-1 fw-900 ">CRYPTOHÄNDLER <br />GESUCHT</h1>
 
@@ -218,10 +214,19 @@
         <div class="p-10 flex flex-wrap">
             <div class="w-100pc md-w-50pc">
                 <div class="p-5">
-                    <h4 class="white fw-800 fs-l3 mb-5">Lorem Pricing</h4>
-                    <div class="indigo-lightest fw-600 fs-m1 opacity-50">Lorem ipsum dolor sit amet, consectetur
-                        adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
-                    <h4 class="white fw-600 fs-m2 mt-10">Companies trusts us.</h4>
+                    <h4 class="white fw-800 fs-l3 mb-5">Warum Challenge?</h4>
+                    <div class="indigo-lightest fw-600 fs-m1 opacity-50">Das Bestehen einer Challenge und die Verifikation sind notwendig, um sicherzustellen, 
+                    dass nur qualifizierte und erfahrene Trader mit Fremdkapital handeln. Das Risiko von Verlusten ist beim Trading mit Fremdkapital erhöht, 
+                    da Sie mit geliehenem Geld investieren und somit auch die Verbindlichkeiten des Kreditgebers übernehmen. 
+                    Um sicherzustellen, dass Trader in der Lage sind, diese Verbindlichkeiten zu tragen und das Risiko angemessen zu verwalten, 
+                    setzen viele Unternehmen eine Challenge und Verifikation voraus.
+                    
+                    Die Challenge dient dazu, die Fähigkeiten und das Wissen der Trader zu testen und sicherzustellen, dass sie über ausreichendes Fachwissen und 
+                    Erfahrung verfügen, um erfolgreich mit Fremdkapital zu handeln. Die Verifikation dient dazu, die Identität und finanziellen Verhältnisse 
+                    der Trader zu überprüfen, um sicherzustellen, dass sie über ausreichendes eigenes Kapital verfügen, um das Risiko von Verlusten zu tragen.
+                    
+                    Insgesamt dient das Bestehen einer Challenge und die Verifikation dazu, das Risiko für beide Seiten - den Trader und den Kreditgeber - 
+                    zu minimieren und sicherzustellen, dass nur qualifizierte und erfahrene Trader mit Fremdkapital handeln.</h4>
                     <div class="flex indigo-lightest opacity-50">
                         <div class="w-25pc">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 177.78 100" fill="currentColor">
