@@ -234,7 +234,7 @@
                 </div>
             </div>
             <div class="w-100pc md-w-25pc">
-                <div class="m-3 p-5 br-8 bg-indigo-lightest-10 overflow-hidden">
+                <div class="m-3 p-5 br-8 overflow-hidden">
                     <img class="w-100pc" src="img/eule-min.png" alt="Bitcoin Eule">
                 </div>
             </div>
@@ -309,7 +309,7 @@
     </section>
 
     <!-- featured blog -->
-    <section class="p-10 md-p-l10">
+    <section class="p-10 md-p-l10 bg-indigo-lightest-10">
         <div class="md-w-75pc">
             <h2 class="white fs-l3 fw-900 lh-1">Lorem ipsum dolor sit amet, consectetur</h2>
             <p class="indigo-lightest fw-600 fs-m1 opacity-50 my-5">Lorem ipsum dolor sit amet, consectetur adipiscing
@@ -324,7 +324,7 @@
     </section>
 
     <!-- blog -->
-    <section class="p-0 md-p-5">
+    <section class="p-0 md-p-5 bg-indigo-lightest-10">
         <div class="flex flex-wrap">
             <div class="w-100pc md-w-33pc p-10">
                 <a href="#" class="block no-underline p-5 br-8 hover-bg-indigo-lightest-10 hover-scale-up-1 ease-300">
