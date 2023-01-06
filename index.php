@@ -44,7 +44,7 @@
 
                 <div class="br-8 mt-10 inline-flex">
                 <h4 class="white fw-600 fs-m2 mb-5">Handeln Sie mit dem Kapital unseres Unternehmens. <br>
-                Erhalten Sie bis zu 90% der Gewinne, wir decken die Verluste.</h4>
+                Erhalten Sie bis zu <span class="bg-indigo white">80% der Gewinne</span>, wir decken die Verluste.</h4>
                 </div>
                 <div class="white mt-3" style="display: flex">
                       <a href="#" class="button-md bg-indigo white fs-m1 br-4 black fw-700 no-underline m-5">Start challenge</a>
@@ -59,39 +59,91 @@
     </section>
 
     <!-- features -->
-    <section id="features" class="p-10 md-p-l5">
+    <section id="features" class="bg-indigo-lightest-10 p-10 md-p-l5">
         <div class="flex flex-column md-flex-row mx-auto">
             <div class="w-100pc md-w-40pc">
                 <div class="br-8 p-5 m-5">
                     <div class="flex justify-center items-center bg-indigo-lightest-10 white w-l5 h-l5 br-round mb-5"><i
-                            data-feather="inbox" class="w-l5"></i></div>
+                            data-feather="compass" class="w-l5"></i></div>
                     <h4 class="white fw-600 fs-m3 mb-5">Swing Account</h4>
-                    <div class="indigo-lightest fw-600 fs-m1 lh-3 opacity-50">Entscheiden Sie sich für das bifunded Account, das perfekt zu Ihrem Handelsstil
-                      und Ihren Bedürfnissen passt. Das bitfunded Account Swing hat keine Beschränkungen für das Halten von Positionen über das Wochenende
+                    <div class="indigo-lightest fw-600 fs-m1 lh-3 opacity-80">Entscheiden Sie sich für das <span class="bg-indigo white">bitfunded</span>  Account, das perfekt zu Ihrem Handelsstil
+                      und Ihren Bedürfnissen passt. Das <span class="bg-indigo white">bitfunded</span>  Account Swing hat keine Beschränkungen für das Halten von Positionen über das Wochenende
                       oder den Handel während makroökonomischer Veröffentlichungen.</div>
                 </div>
             </div>
             <div class="w-100pc md-w-40pc">
                 <div class="br-8 p-5 m-5">
                     <div class="flex justify-center items-center bg-indigo-lightest-10 white w-l5 h-l5 br-round mb-5"><i
-                            data-feather="cpu" class="w-l5"></i></div>
+                            data-feather="bar-chart" class="w-l5"></i></div>
                     <h4 class="white fw-600 fs-m3 mb-5">Kapitalerhöhungsplan</h4>
-                    <div class="indigo-lightest fw-600 fs-m1 opacity-50">Wir streben langfristige Geschäftsbeziehungen an. Wenn Sie es schaffen,
-                      konstant und profitabel zu sein, werden wir den Kontostand Ihres bitfunded Kontos alle 4 Monate gemäß des Kapitalerhöhungsplan um 25% erhöhen.</div>
+                    <div class="indigo-lightest fw-600 fs-m1 opacity-80">Wir streben langfristige Geschäftsbeziehungen an. Wenn Sie es schaffen,
+                      konstant und profitabel zu sein, werden wir den Kontostand Ihres <span class="bg-indigo white">bitfunded</span>  Kontos alle 4 Monate gemäß des Kapitalerhöhungsplan um 25% erhöhen.</div>
                 </div>
             </div>
             <div class="w-100pc md-w-40pc">
                 <div class="br-8 p-5 m-5">
                     <div class="flex justify-center items-center bg-indigo-lightest-10 white w-l5 h-l5 br-round mb-5"><i
-                            data-feather="database" class="w-l5"></i></div>
+                            data-feather="activity" class="w-l5"></i></div>
                     <h4 class="white fw-600 fs-m3 mb-5">Free Trial</h4>
-                    <div class="indigo-lightest fw-600 fs-m1 opacity-50">Wenn Sie sich nicht sicher sind, haben Sie die Möglichkeit das Verfahren völlig kostenlos
-                      auszuprobieren. Die Kostenlose Testversion ist eine verkürzte Version der bitfunded Challenge mit den gleichen Handelsbedingungen.</div>
+                    <div class="indigo-lightest fw-600 fs-m1 opacity-80">Wenn Sie sich nicht sicher sind, haben Sie die Möglichkeit das Verfahren völlig kostenlos
+                      auszuprobieren. Die Kostenlose Testversion ist eine verkürzte Version der <span class="bg-indigo white">bitfunded</span>  Challenge mit den gleichen Handelsbedingungen.</div>
                 </div>
             </div>
         </div>
     </section>
 
+    <!-- the way to trader -->
+    <section id="thewaytotrader" class="p-10 md-p-l5">
+    <h4 class="white fw-800 fs-l3 mb-5">Evaluierungsprozess</h4>
+        <div class="flex flex-column md-flex-row mx-auto">
+            <div class="w-100pc md-w-40pc">
+                <div class="m-3 p-5 br-8 bg-indigo-lightest-10 overflow-hidden">
+                    <div class="p-6">
+                        <h2><span class="bg-indigo white">bitfunded</span>  <span class="indigo">Challenge</span></h3>
+                    </div>
+                    <div class="p-6 indigo-lightest fw-600 fs-m1 lh-5">
+                        <div>Die <span class="bg-indigo white">bitfunded</span> Challenge ist der erste Schritt des Evaluierungsprozesses. 
+                        Dieser Schritt muss erfolgreich absolviert werden, um zur Verification zu gelangen. 
+                        Stellen Sie Ihre Handelsfähigkeiten und Ihre Disziplin mit der Einhaltung der Handelsziele unter Beweis. </div>
+                    </div>
+                </div>
+            </div>
+            <div class="w-100pc md-w-40pc">
+                <div class="m-3 p-5 br-8 bg-indigo-lightest-10 overflow-hidden">
+                    <div class="p-6">
+                        <h2 class="indigo">Verification</h3>
+                    </div>
+                    <div class="p-6 indigo-lightest fw-600 fs-m1 lh-5">
+                        <div>Die Verification ist der zweite und letzte Schritt auf dem Weg zum <span class="bg-indigo white">bitfunded</span> 
+                        Trader. Sobald Sie die Verification bestanden haben und Ihre Ergebnisse verifiziert sind, erhalten Sie das Angebot, 
+                        für unsere Proprietary Trading Firm zu handeln. <br>&nbsp;<br></div>
+                    </div>
+                </div>
+            </div>
+            <div class="w-100pc md-w-40pc">
+                <div class="m-3 p-5 br-8 bg-white opacity-90 overflow-hidden">
+                    <div class="p-6">
+                        <h2><span class="bg-indigo white">bitfunded</span> <span class="indigo">Trader</span></h3>
+                    </div>
+                    <div class="p-6 fw-600 opacity-80 fs-m1 lh-5">
+                        <div>Sie werden ein Trader der bitfunded Proprietary Trading Firm. Handeln du verantwortungsvoll und 
+                        konsequent und erhaltest du bis zu <span class="bg-indigo white">80% deiner Gewinne</span>. Wenn du kontinuierlich Gewinne auf Ihrem 
+                        <span class="bg-indigo white">bitfunded</span> Account erzielen, können wir Ihr Konto 
+                        gemäß unseres Kapitalerhöhungsplans skalieren.</div>
+                        <div>
+                            <button class="button full bg-indigo white indigo-lightest fw-600 fs-m1 lh-5 hover-opacity-100 hover-scale-up-1 ease-300">Handle mit dem echten Geld</button>
+                            <details>
+                                <summary class="p-3 fw-300 opacity-60 fs-s1 lh-5" style="text-align:right;cursor: pointer;list-style: none;">Hinweis</summary>
+                                <div class="fw-200 opacity-60 fs-s1 lh-5">Das Angebot, für unsere kooperierende Proprietary Trading Firm zu handeln, wird den Kunden gemacht, die den Evaluierungsprozess erfolgreich bestehen. Um eventuelle Unklarheiten zu vermeiden, bitfunded stellt seinen Kunden in allen Phasen der Zusammenarbeit Demokonten mit virtuellem Kapital zur Verfügung. 
+                                </div>
+                            </details>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
     <!-- slider -->
     <section class="relative bg-indigo-lightest-10">
         <div id="slider-1">
@@ -416,7 +468,7 @@
                 <div class="white opacity-70 fs-s2 mt-4 md-pr-10">
                     <p>für seriöse Crypto Trader.</p>
                     <br>
-                    <a href="mailto:support@bitfunded.com" class="white">suppor@bitfunded.com</a>
+                    <a href="mailto:support@bitfunded.com" class="white">suppor@<span class="bg-indigo white">bitfunded</span>.com</a>
                       <ul class="list-none mt-5 fs-s2">
                             <li class="my-3"><a href="#" class="white opacity-70 no-underline hover-underline">Cookies</a></li>
                       </ul>
@@ -447,7 +499,7 @@
             </div>
             <div class="w-100pc md-w-25pc">
                 <div class="flex w-75pc md-w-100pc mx-auto">
-                    <input type="text"
+                    <input type="email"
                         class="input flex-grow-1 bw-0 fw-200 bg-indigo-lightest-10 white ph-indigo-lightest focus-white opacity-80 fs-s3 py-5 br-r-0"
                         placeholder="Email Address">
                     <button class="button bg-indigo indigo-lightest fw-300 fs-s3 br-l-0">Newsletter abonnieren</button>
@@ -466,7 +518,7 @@
             <p>Alle auf dieser Website bereitgestellten Informationen dienen ausschließlich zu Studienzwecken hinsichtlich des Handels an den Finanzmärkten und stellen in keiner Weise eine spezifische Anlageempfehlung, Geschäftsempfehlung, Analyse von Anlagemöglichkeiten oder eine ähnliche allgemeine Empfehlung hinsichtlich des Handels mit Finanzinstrumenten dar. Der Handel auf den Finanzmärkten ist eine hochriskante Tätigkeit und es wird empfohlen, nicht mehr zu riskieren, als man sich leisten kann zu verlieren! bitfunded Evaluation Global s.r.o./bitfunded Evaluation US s.r.o., juristische Adresse: Bloob str, Bloob Stadt, bietet keine der im Capital Market Undertakings Act No. 256/2004 Coll. aufgeführten Investitionsdienstleistungen an. Die Informationen auf dieser Seite sind nicht an Personen gerichtet, die in einem Land oder einer Rechtsordnung ansässig sind, in denen eine solche Verbreitung oder Nutzung im Widerspruch zu den dort geltenden Gesetzen oder Vorschriften verstoßen würde. bitfunded Evaluation Global s.r.o./bitfunded Evaluation US s.r.o. und bitfunded s.r.o.,juristische Adresse: bloob street, bloob stadt, 100000, bloob land, sind kein Broker und nehmen keine Einlagen an. Die angebotene technische Lösung für die bitfunded Plattformen und der Datenfeed wird von den institutionellen Liquiditätsanbietern bereitgestellt.</p>
         </div>
         <div class="flex flex-wrap white opacity-70 mt-4 md-pr-10">
-            <p>2023 © Copyright - bitfunded.com - Made with <font color="red">❤</font> for crypto trading.</p>
+            <p>2023 © Copyright - <span class="bg-indigo white">bitfunded</span>.com - Made with <font color="red">❤</font> for crypto trading.</p>
         </div>
 
     </footer>
