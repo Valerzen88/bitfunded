@@ -374,7 +374,7 @@
                 </p>
             </div>
             <div class="w-100pc md-w-33pc p-10">
-                <h4 class="white fs-m4 fw-700 lh-1"><i data-feather="trading-up"></i>&nbsp;Handeln Sie mit sämtlichen Instrumenten</h4>
+                <h4 class="white fs-m4 fw-700 lh-1"><i data-feather="trending-up"></i>&nbsp;Handeln Sie mit sämtlichen Instrumenten</h4>
                 <p class="fw-600 white fs-m1 mt-3">
                     Handeln Sie mit den meisten Kryptowährungsinstrumenten.
                 </p>
