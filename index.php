@@ -127,10 +127,13 @@
                         <span class="bg-indigo white">bitfunded</span> Account erzielen, können wir Ihr Konto 
                         gemäß unseres Kapitalerhöhungsplans skalieren.</div>
                         <div>
-                            <button class="button full bg-indigo white indigo-lightest fw-600 fs-m1 lh-5 hover-opacity-100 hover-scale-up-1 ease-300">Handle mit dem echten Geld</button>
+                            <button class="button full bg-indigo white indigo-lightest fw-600 fs-m1 lh-5 hover-opacity-100 hover-scale-up-1 ease-300">
+                            Handle mit dem echten Geld</button>
                             <details>
                                 <summary class="p-3 fw-300 opacity-60 fs-s1 lh-5" style="text-align:right;cursor: pointer;list-style: none;">Hinweis</summary>
-                                <div class="fw-200 opacity-60 fs-s1 lh-5">Das Angebot, für unsere kooperierende Proprietary Trading Firm zu handeln, wird den Kunden gemacht, die den Evaluierungsprozess erfolgreich bestehen. Um eventuelle Unklarheiten zu vermeiden, bitfunded stellt seinen Kunden in allen Phasen der Zusammenarbeit Demokonten mit virtuellem Kapital zur Verfügung. 
+                                <div class="fw-200 opacity-60 fs-s1 lh-5">Das Angebot, für unsere kooperierende Proprietary Trading Firm zu handeln, wird den Kunden gemacht, 
+                                die den Evaluierungsprozess erfolgreich bestehen. Um eventuelle Unklarheiten zu vermeiden, bitfunded stellt seinen Kunden in allen Phasen 
+                                der Zusammenarbeit Demokonten mit virtuellem Kapital zur Verfügung. 
                                 </div>
                             </details>
                         </div>
@@ -141,8 +144,17 @@
     </section>
     
     //todo: tabelle mit kontogrößen hinzufügen
-     <section class="relative bg-indigo-lightest-10">
-     
+     <section id="tradingaccounts" class="relative bg-indigo-lightest-10">
+        <h4 class="white fw-800 fs-l3 mb-5">Handelsziele</h4>
+        Bevor wir Ihnen erlauben, für unsere Proprietary Trading Firma zu handeln, müssen wir sicher stellen, dass Sie das Risiko managen können. Aus diesem Grund haben wir Handelsziele entwickelt. Durch die Erfüllung der Handelsziele beweisen Sie, dass Sie ein disziplinierter und erfahrener Händler sind. Ihr Handelsstil ist Ihnen völlig freigestellt; wir setzen keine Limits für Instrumente oder Positionsgrößen, die Sie handeln.
+        <div class="flex flex-column md-flex-row mx-auto">
+            <table>
+                <th></th>
+                <tr>
+                    <td></td>
+                </tr>
+            </table>
+        </div>
      </section>
     
     <!-- slider -->
@@ -206,7 +218,7 @@
                     ob auf dem Desktop oder auf dem Handy getradet wird. <br>&nbsp;<br>Die moderne Funktionen der Tradingbranche 
                     wurden in diesem einzigartigen System integriert. Es besteht die Möglichkeit die Trades direkt 
                     über die Chartoberfläche einzugeben, Crypto-Spots zu traden, Marginhandel als Standard-Funktion 
-                    zu nutzen und Orderbuch anzeigen zu lassen. </span> </div>
+                    zu nutzen und Orderbuch anzeigen zu lassen.</div>
                 </div>
             </div>
             <div class="w-100pc md-w-50pc">
@@ -220,7 +232,7 @@
                     Alle <span class="bg-indigo white">bitfunded</span>  Trader können eine Auszahlung nach Bedarf beantragen. 
                     Die Auszahlung kann bereits nach 14 Tagen erfolgen, aber Sie haben auch die Möglichkeit, Ihren eigenen Gewinnaufteilungstag zu wählen, 
                     der sogar bis zu drei Mal geändert werden kann. Wir sorgen dafür, dass Sie Ihre Auszahlung immer 
-                    an dem für Sie günstigsten Tag erhalten.</span> </div>
+                    an dem für Sie günstigsten Tag erhalten.</div>
 
                 </div>
             </div>
