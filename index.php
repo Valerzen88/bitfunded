@@ -199,19 +199,19 @@
         <div class="flex flex-column md-flex-row md-w-80pc mx-auto">
             <div class="w-100pc md-w-50pc">
                 <div class="br-8 p-5 m-5 bg-indigo-lightest-10 pointer hover-scale-up-1 ease-300">
-                    <div class="inline-block bg-indigo indigo-lightest br-3 px-4 py-1 mb-10 fs-s4 uppercase">
+                    <div class="inline-block bg-indigo indigo-lightest br-3 px-4 py-1 mb-10 fs-m1 uppercase">
                         Trading-Plattform</div>
-                    <div class="indigo-lightest fw-600 fs-m1">Eigensentwickelte <span class="opacity-30"> Tradingplattform, 
+                    <div class="indigo-lightest fw-600 fs-m1 opacity-90">Eigensentwickelte Tradingplattform, 
                     die speziell auf die Bedürfnisse der Cryptotrader abgestimmt ist. Dabei ist es unerheblich, 
-                    ob auf dem Desktop oder auf dem Handy getradet wird.</span> </div>
-                    <a href="#" class="mt-10 button bg-black fs-s3 white no-underline">Read</a>
+                    ob auf dem Desktop oder auf dem Handy getradet wird. Die moderne Funktionen der Tradingbranche 
+                    wurden in diesem einzigartigen System integriert.</span> </div>
                 </div>
             </div>
             <div class="w-100pc md-w-50pc">
                 <div class="br-8 p-5 m-5 bg-indigo-lightest-10  pointer hover-scale-up-1 ease-300">
-                    <div class="inline-block bg-indigo indigo-lightest br-3 px-4 py-1 mb-10 fs-s4 uppercase">
+                    <div class="inline-block bg-indigo indigo-lightest br-3 px-4 py-1 mb-10 fs-m1 uppercase">
                         Auszahlungssystem</div>
-                    <div class="indigo-lightest fw-600 fs-m1">Lorem ipsum <span class="opacity-30"> Das standardmäßige Auszahlungsverhältnis für alle 
+                    <div class="indigo-lightest fw-600 fs-m1 opacity-90">Das standardmäßige Auszahlungsverhältnis für alle 
                     <span class="bg-indigo white">bitfunded</span> Trader ist auf 80:20 eingestellt, wobei wir die Grenze nicht bei 80% ziehen.
                     Wenn Sie die Bedingungen unseres Skalierungsplans erfüllen, erhöhen wir nicht nur das Guthaben Ihres <span class="bg-indigo white">bitfunded</span> 
                     Kontos um 25%, sondern auch das Auszahlungsverhältnis ändert sich automatisch auf atemberaubende 90:10!
