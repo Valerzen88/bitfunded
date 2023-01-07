@@ -122,7 +122,7 @@
                         <h2><span class="bg-indigo white">bitfunded</span> <span class="indigo">Trader</span></h3>
                     </div>
                     <div class="p-6 fw-600 opacity-80 fs-m1 lh-5">
-                        <div>Sie werden ein Trader der bitfunded Proprietary Trading Firm. Handeln du verantwortungsvoll und 
+                        <div>Sie werden ein Trader der <span class="bg-indigo white">bitfunded</span> Proprietary Trading Firm. Handeln du verantwortungsvoll und 
                         konsequent und erhaltest du bis zu <span class="bg-indigo white">80% deiner Gewinne</span>. Wenn du kontinuierlich Gewinne auf Ihrem 
                         <span class="bg-indigo white">bitfunded</span> Account erzielen, können wir Ihr Konto 
                         gemäß unseres Kapitalerhöhungsplans skalieren.</div>
@@ -141,6 +141,9 @@
     </section>
     
     //todo: tabelle mit kontogrößen hinzufügen
+     <section class="relative bg-indigo-lightest-10">
+     
+     </section>
     
     <!-- slider -->
     <section class="relative bg-indigo-lightest-10">
@@ -197,21 +200,25 @@
             <div class="w-100pc md-w-50pc">
                 <div class="br-8 p-5 m-5 bg-indigo-lightest-10 pointer hover-scale-up-1 ease-300">
                     <div class="inline-block bg-indigo indigo-lightest br-3 px-4 py-1 mb-10 fs-s4 uppercase">
-                        individual</div>
-                    <div class="indigo-lightest fw-600 fs-m1">Lorem ipsum <span class="opacity-30"> dolor sit amet,
-                            consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-                            aliqua.</span> </div>
+                        Trading-Plattform</div>
+                    <div class="indigo-lightest fw-600 fs-m1">Eigensentwickelte <span class="opacity-30"> Tradingplattform, 
+                    die speziell auf die Bedürfnisse der Cryptotrader abgestimmt ist. Dabei ist es unerheblich, 
+                    ob auf dem Desktop oder auf dem Handy getradet wird.</span> </div>
                     <a href="#" class="mt-10 button bg-black fs-s3 white no-underline">Read</a>
                 </div>
             </div>
             <div class="w-100pc md-w-50pc">
                 <div class="br-8 p-5 m-5 bg-indigo-lightest-10  pointer hover-scale-up-1 ease-300">
                     <div class="inline-block bg-indigo indigo-lightest br-3 px-4 py-1 mb-10 fs-s4 uppercase">
-                        team</div>
-                    <div class="indigo-lightest fw-600 fs-m1">Lorem ipsum <span class="opacity-30"> dolor sit amet,
-                            consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-                            aliqua.</span> </div>
-                    <a href="#" class="mt-10 button bg-black fs-s3 white no-underline">Read</a>
+                        Auszahlungssystem</div>
+                    <div class="indigo-lightest fw-600 fs-m1">Lorem ipsum <span class="opacity-30"> Das standardmäßige Auszahlungsverhältnis für alle 
+                    <span class="bg-indigo white">bitfunded</span> Trader ist auf 80:20 eingestellt, wobei wir die Grenze nicht bei 80% ziehen.
+                    Wenn Sie die Bedingungen unseres Skalierungsplans erfüllen, erhöhen wir nicht nur das Guthaben Ihres <span class="bg-indigo white">bitfunded</span> 
+                    Kontos um 25%, sondern auch das Auszahlungsverhältnis ändert sich automatisch auf atemberaubende 90:10!
+                    Alle <span class="bg-indigo white">bitfunded</span>  Trader können eine Auszahlung nach Bedarf beantragen. 
+                    Die Auszahlung kann bereits nach 14 Tagen erfolgen, aber Sie haben auch die Möglichkeit, Ihren eigenen Gewinnaufteilungstag zu wählen, 
+                    der sogar bis zu drei Mal geändert werden kann. Wir sorgen dafür, dass Sie Ihre Auszahlung immer 
+                    an dem für Sie günstigsten Tag erhalten.</span> </div>
 
                 </div>
             </div>
