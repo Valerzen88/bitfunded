@@ -144,14 +144,36 @@
     </section>
     
     //todo: tabelle mit kontogrößen hinzufügen
-     <section id="tradingaccounts" class="relative bg-indigo-lightest-10">
+     <section id="tradingaccounts" class="relative bg-indigo-lightest-10 white">
         <h4 class="white fw-800 fs-l3 mb-5">Handelsziele</h4>
-        Bevor wir Ihnen erlauben, für unsere Proprietary Trading Firma zu handeln, müssen wir sicher stellen, dass Sie das Risiko managen können. Aus diesem Grund haben wir Handelsziele entwickelt. Durch die Erfüllung der Handelsziele beweisen Sie, dass Sie ein disziplinierter und erfahrener Händler sind. Ihr Handelsstil ist Ihnen völlig freigestellt; wir setzen keine Limits für Instrumente oder Positionsgrößen, die Sie handeln.
+        Bevor wir Ihnen erlauben, für unsere Proprietary Trading Firma zu handeln, müssen wir sicher stellen, dass Sie das Risiko managen können. 
+        Aus diesem Grund haben wir Handelsziele entwickelt. Durch die Erfüllung der Handelsziele beweisen Sie, dass Sie ein disziplinierter 
+        und erfahrener Händler sind. Ihr Handelsstil ist Ihnen völlig freigestellt; wir setzen keine Limits für Instrumente oder Positionsgrößen, die Sie handeln.
+     </section>
+     
+     <section id="tradingaccounts" class="relative white">
         <div class="flex flex-column md-flex-row mx-auto">
             <table>
-                <th></th>
+                <tr><th>Währung</th></tr>
                 <tr>
-                    <td></td>
+                    <td>USDC</td><td>USDT</td>
+                </tr>
+                 <tr><th>Risiko</th></tr>
+                <tr>
+                    <td>Normal</td><td>Agressiv</td>
+                </tr>
+                 <tr><th>Kapital</th></tr>
+                <tr>
+                    <td>10.000</td><td>20.000</td><td>50.000</td><td>75.000</td><td>100.000</td>
+                </tr>
+            </table>
+            <table>
+                <tr><th></th><th>Schritt 1</th><th>Schritt 2</th><th>Schritt 3</th></tr>
+                <tr>
+                    <td>Dauer</td><td>30 Tage</td> <td>30 Tage</td><td>unbegrenzt</td>
+                </tr>
+                <tr>
+                    <td>Minimale Handelstage</td><td>10 Tag</td><td>10 Tage</td><td>X</td>
                 </tr>
             </table>
         </div>
