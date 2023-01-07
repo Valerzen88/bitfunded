@@ -144,14 +144,14 @@
     </section>
     
     //todo: tabelle mit kontogrößen hinzufügen
-     <section id="tradingaccounts" class="relative bg-indigo-lightest-10 white">
+     <section id="tradingaccounts" class="relative p-10 md-p-l5 bg-indigo-lightest-10 white">
         <h4 class="white fw-800 fs-l3 mb-5">Handelsziele</h4>
         Bevor wir Ihnen erlauben, für unsere Proprietary Trading Firma zu handeln, müssen wir sicher stellen, dass Sie das Risiko managen können. 
         Aus diesem Grund haben wir Handelsziele entwickelt. Durch die Erfüllung der Handelsziele beweisen Sie, dass Sie ein disziplinierter 
         und erfahrener Händler sind. Ihr Handelsstil ist Ihnen völlig freigestellt; wir setzen keine Limits für Instrumente oder Positionsgrößen, die Sie handeln.
      </section>
      
-     <section id="tradingaccounts" class="relative white">
+     <section id="tradingaccounts" class="relative p-10 md-p-l5 white">
         <div class="flex flex-column md-flex-row mx-auto">
             <table>
                 <tr><th>Währung</th></tr>
