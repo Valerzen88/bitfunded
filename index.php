@@ -203,7 +203,7 @@
                         Trading-Plattform</div>
                     <div class="indigo-lightest fw-600 fs-m1 opacity-90">Eigensentwickelte Tradingplattform, 
                     die speziell auf die Bedürfnisse der Cryptotrader abgestimmt ist. Dabei ist es unerheblich, 
-                    ob auf dem Desktop oder auf dem Handy getradet wird. Die moderne Funktionen der Tradingbranche 
+                    ob auf dem Desktop oder auf dem Handy getradet wird. <br>&nbsp;<br>Die moderne Funktionen der Tradingbranche 
                     wurden in diesem einzigartigen System integriert. Es besteht die Möglichkeit die Trades direkt 
                     über die Chartoberfläche einzugeben, Crypto-Spots zu traden, Marginhandel als Standard-Funktion 
                     zu nutzen und Orderbuch anzeigen zu lassen. </span> </div>
@@ -216,7 +216,7 @@
                     <div class="indigo-lightest fw-600 fs-m1 opacity-90">Das standardmäßige Auszahlungsverhältnis für alle 
                     <span class="bg-indigo white">bitfunded</span> Trader ist auf 80:20 eingestellt, wobei wir die Grenze nicht bei 80% ziehen.
                     Wenn Sie die Bedingungen unseres Skalierungsplans erfüllen, erhöhen wir nicht nur das Guthaben Ihres <span class="bg-indigo white">bitfunded</span> 
-                    Kontos um 25%, sondern auch das Auszahlungsverhältnis ändert sich automatisch auf atemberaubende 90:10!
+                    Kontos um 25%, sondern auch das Auszahlungsverhältnis ändert sich automatisch auf atemberaubende 90:10!<br>&nbsp;<br>
                     Alle <span class="bg-indigo white">bitfunded</span>  Trader können eine Auszahlung nach Bedarf beantragen. 
                     Die Auszahlung kann bereits nach 14 Tagen erfolgen, aber Sie haben auch die Möglichkeit, Ihren eigenen Gewinnaufteilungstag zu wählen, 
                     der sogar bis zu drei Mal geändert werden kann. Wir sorgen dafür, dass Sie Ihre Auszahlung immer 
