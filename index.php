@@ -340,19 +340,19 @@
         <div class="flex flex-wrap">
             <div class="w-100pc md-w-33pc p-10">
                 <h4 class="white fs-m3 fw-700 lh-1"><i data-feather="thumbs-up"></i>&nbsp;Die besten Handelskonditionen</h4>
-                <p class="fw-500 white fs-m1 mt-3">
+                <p class="fw-400 white fs-m1 mt-3">
                     Die FTMO Lösung mit einer großen Auswahl an verschiedensten Assets, mit sehr günstigen Kommissionen und sehr kleinen Spreads.
                 </p>
             </div>
             <div class="w-100pc md-w-33pc p-10">
                 <h4 class="white fs-m3 fw-700 lh-1"><i data-feather="layers"></i>&nbsp;Hebelwirkung bis zu 1:100</h4>
-                <p class="fw-500 white fs-m1 mt-3">
+                <p class="fw-400 white fs-m1 mt-3">
                     Nutzen Sie die Hebelwirkung eines professionellen Händlers zu Ihrem Vorteil, ohne vorgeschriebene Limits für die Positionsgröße.
                 </p>
             </div>
             <div class="w-100pc md-w-33pc p-10">
                 <h4 class="white fs-m3 fw-700 lh-1"><i data-feather="key"></i>&nbsp;Nur einmalige Gebühr</h4>
-                <p class="fw-500 white fs-m1 mt-3">
+                <p class="fw-400 white fs-m1 mt-3">
                     Keine wiederkehrenden Gebühren, keine Mitgliedschaft oder andere versteckte Gebühren. 
                     Außerdem wird Ihnen die Gebühr automatisch mit dem ersten Profit Split erstattet.
                 </p>
@@ -363,19 +363,19 @@
         <div class="flex flex-wrap">
             <div class="w-100pc md-w-33pc p-10">
                 <h4 class="white fs-m3 fw-700 lh-1"><i data-feather="star"></i>&nbsp;Eigenes Plattform</h4>
-                <p class="fw-500 white fs-m1 mt-3">
+                <p class="fw-400 white fs-m1 mt-3">
                     Wir haben unsere eigene Plattform fürs Trading in Cryptobereich zusammengebaut.
                 </p>
             </div>
             <div class="w-100pc md-w-33pc p-10">
                 <h4 class="white fs-m3 fw-700 lh-1"><i data-feather="unlock"></i>&nbsp;Keine Einschränkungen beim Handelsstil!</h4>
-                <p class="fw-500 white fs-m1 mt-3">
+                <p class="fw-400 white fs-m1 mt-3">
                     Handeln Sie Ihre eigene Handelsstrategie ohne Einschränkungen oder Begrenzungen.
                 </p>
             </div>
             <div class="w-100pc md-w-33pc p-10">
                 <h4 class="white fs-m3 fw-700 lh-1"><i data-feather="trending-up"></i>&nbsp;Handeln Sie mit sämtlichen Instrumenten</h4>
-                <p class="fw-500 white fs-m1 mt-3">
+                <p class="fw-400 white fs-m1 mt-3">
                     Handeln Sie mit den meisten Kryptowährungsinstrumenten.
                 </p>
             </div>
