@@ -122,7 +122,7 @@
                         <h2><span class="bg-indigo white">bitfunded</span> <span class="indigo">Trader</span></h3>
                     </div>
                     <div class="p-6 fw-600 opacity-80 fs-m1 lh-5">
-                        <div>Sie werden ein Trader der bitfunded Proprietary Trading Firm. Handeln du verantwortungsvoll und 
+                        <div>Sie werden ein Trader der <span class="bg-indigo white">bitfunded</span> Proprietary Trading Firm. Handeln du verantwortungsvoll und 
                         konsequent und erhaltest du bis zu <span class="bg-indigo white">80% deiner Gewinne</span>. Wenn du kontinuierlich Gewinne auf Ihrem 
                         <span class="bg-indigo white">bitfunded</span> Account erzielen, können wir Ihr Konto 
                         gemäß unseres Kapitalerhöhungsplans skalieren.</div>
@@ -141,6 +141,9 @@
     </section>
     
     //todo: tabelle mit kontogrößen hinzufügen
+     <section class="relative bg-indigo-lightest-10">
+     
+     </section>
     
     <!-- slider -->
     <section class="relative bg-indigo-lightest-10">
@@ -197,21 +200,25 @@
             <div class="w-100pc md-w-50pc">
                 <div class="br-8 p-5 m-5 bg-indigo-lightest-10 pointer hover-scale-up-1 ease-300">
                     <div class="inline-block bg-indigo indigo-lightest br-3 px-4 py-1 mb-10 fs-s4 uppercase">
-                        individual</div>
-                    <div class="indigo-lightest fw-600 fs-m1">Lorem ipsum <span class="opacity-30"> dolor sit amet,
-                            consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-                            aliqua.</span> </div>
+                        Trading-Plattform</div>
+                    <div class="indigo-lightest fw-600 fs-m1">Eigensentwickelte <span class="opacity-30"> Tradingplattform, 
+                    die speziell auf die Bedürfnisse der Cryptotrader abgestimmt ist. Dabei ist es unerheblich, 
+                    ob auf dem Desktop oder auf dem Handy getradet wird.</span> </div>
                     <a href="#" class="mt-10 button bg-black fs-s3 white no-underline">Read</a>
                 </div>
             </div>
             <div class="w-100pc md-w-50pc">
                 <div class="br-8 p-5 m-5 bg-indigo-lightest-10  pointer hover-scale-up-1 ease-300">
                     <div class="inline-block bg-indigo indigo-lightest br-3 px-4 py-1 mb-10 fs-s4 uppercase">
-                        team</div>
-                    <div class="indigo-lightest fw-600 fs-m1">Lorem ipsum <span class="opacity-30"> dolor sit amet,
-                            consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-                            aliqua.</span> </div>
-                    <a href="#" class="mt-10 button bg-black fs-s3 white no-underline">Read</a>
+                        Auszahlungssystem</div>
+                    <div class="indigo-lightest fw-600 fs-m1">Lorem ipsum <span class="opacity-30"> Das standardmäßige Auszahlungsverhältnis für alle 
+                    <span class="bg-indigo white">bitfunded</span> Trader ist auf 80:20 eingestellt, wobei wir die Grenze nicht bei 80% ziehen.
+                    Wenn Sie die Bedingungen unseres Skalierungsplans erfüllen, erhöhen wir nicht nur das Guthaben Ihres <span class="bg-indigo white">bitfunded</span> 
+                    Kontos um 25%, sondern auch das Auszahlungsverhältnis ändert sich automatisch auf atemberaubende 90:10!
+                    Alle <span class="bg-indigo white">bitfunded</span>  Trader können eine Auszahlung nach Bedarf beantragen. 
+                    Die Auszahlung kann bereits nach 14 Tagen erfolgen, aber Sie haben auch die Möglichkeit, Ihren eigenen Gewinnaufteilungstag zu wählen, 
+                    der sogar bis zu drei Mal geändert werden kann. Wir sorgen dafür, dass Sie Ihre Auszahlung immer 
+                    an dem für Sie günstigsten Tag erhalten.</span> </div>
 
                 </div>
             </div>
@@ -340,19 +347,19 @@
         <div class="flex flex-wrap">
             <div class="w-100pc md-w-33pc p-10">
                 <h4 class="white fs-m3 fw-700 lh-1"><i data-feather="thumbs-up"></i>&nbsp;Die besten Handelskonditionen</h4>
-                <p class="fw-500 white fs-m1 mt-3">
+                <p class="fw-400 white fs-m1 mt-3">
                     Die FTMO Lösung mit einer großen Auswahl an verschiedensten Assets, mit sehr günstigen Kommissionen und sehr kleinen Spreads.
                 </p>
             </div>
             <div class="w-100pc md-w-33pc p-10">
                 <h4 class="white fs-m3 fw-700 lh-1"><i data-feather="layers"></i>&nbsp;Hebelwirkung bis zu 1:100</h4>
-                <p class="fw-500 white fs-m1 mt-3">
+                <p class="fw-400 white fs-m1 mt-3">
                     Nutzen Sie die Hebelwirkung eines professionellen Händlers zu Ihrem Vorteil, ohne vorgeschriebene Limits für die Positionsgröße.
                 </p>
             </div>
             <div class="w-100pc md-w-33pc p-10">
                 <h4 class="white fs-m3 fw-700 lh-1"><i data-feather="key"></i>&nbsp;Nur einmalige Gebühr</h4>
-                <p class="fw-500 white fs-m1 mt-3">
+                <p class="fw-400 white fs-m1 mt-3">
                     Keine wiederkehrenden Gebühren, keine Mitgliedschaft oder andere versteckte Gebühren. 
                     Außerdem wird Ihnen die Gebühr automatisch mit dem ersten Profit Split erstattet.
                 </p>
@@ -363,19 +370,19 @@
         <div class="flex flex-wrap">
             <div class="w-100pc md-w-33pc p-10">
                 <h4 class="white fs-m3 fw-700 lh-1"><i data-feather="star"></i>&nbsp;Eigenes Plattform</h4>
-                <p class="fw-500 white fs-m1 mt-3">
+                <p class="fw-400 white fs-m1 mt-3">
                     Wir haben unsere eigene Plattform fürs Trading in Cryptobereich zusammengebaut.
                 </p>
             </div>
             <div class="w-100pc md-w-33pc p-10">
                 <h4 class="white fs-m3 fw-700 lh-1"><i data-feather="unlock"></i>&nbsp;Keine Einschränkungen beim Handelsstil!</h4>
-                <p class="fw-500 white fs-m1 mt-3">
+                <p class="fw-400 white fs-m1 mt-3">
                     Handeln Sie Ihre eigene Handelsstrategie ohne Einschränkungen oder Begrenzungen.
                 </p>
             </div>
             <div class="w-100pc md-w-33pc p-10">
                 <h4 class="white fs-m3 fw-700 lh-1"><i data-feather="trending-up"></i>&nbsp;Handeln Sie mit sämtlichen Instrumenten</h4>
-                <p class="fw-500 white fs-m1 mt-3">
+                <p class="fw-400 white fs-m1 mt-3">
                     Handeln Sie mit den meisten Kryptowährungsinstrumenten.
                 </p>
             </div>
