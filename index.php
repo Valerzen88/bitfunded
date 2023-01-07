@@ -204,7 +204,9 @@
                     <div class="indigo-lightest fw-600 fs-m1 opacity-90">Eigensentwickelte Tradingplattform, 
                     die speziell auf die Bedürfnisse der Cryptotrader abgestimmt ist. Dabei ist es unerheblich, 
                     ob auf dem Desktop oder auf dem Handy getradet wird. Die moderne Funktionen der Tradingbranche 
-                    wurden in diesem einzigartigen System integriert.</span> </div>
+                    wurden in diesem einzigartigen System integriert. Es besteht die Möglichkeit die Trades direkt 
+                    über die Chartoberfläche einzugeben, Crypto-Spots zu traden, Marginhandel als Standard-Funktion 
+                    zu nutzen und Orderbuch anzeigen zu lassen. </span> </div>
                 </div>
             </div>
             <div class="w-100pc md-w-50pc">
